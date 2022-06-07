@@ -1,5 +1,5 @@
 #include <stdio.h>
- /**
+/**
  * main - Prints alphabet
  * Return: return 0 for success otherwise 1
  */
