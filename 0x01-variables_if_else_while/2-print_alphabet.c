@@ -1,8 +1,7 @@
 #include <stdio.h>
-
  /**
- * main - Prints alphabet*
- * Return: return 0 otherwise 1
+ * main - Prints alphabet
+ * Return: return 0 for success otherwise 1
  */
 int main(void)
 {
