@@ -10,7 +10,6 @@
 
 void _puts(char *str)
 {
-	char str;
 
 	str = "Yes i can!";
 	puts(str);
