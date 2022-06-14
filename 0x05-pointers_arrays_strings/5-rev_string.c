@@ -10,19 +10,7 @@
 
 void rev_string(char *s)
 {
-	int i, len, temp;
 
-	len = strlen(s);
-
-	if (i < len/2)
-	{
-		temp = s[i];
-		s[i] = s[len - i - 1];
-		s[len - i - 1] = temp;
-		i++;
-		revstr(s);
-	}
-/*
 	int i, j, k;
 	char *p, temp;
 
@@ -45,5 +33,5 @@ void rev_string(char *s)
 		*p = temp;
 		p--;
 	}
-*/
+
 }
